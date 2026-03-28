@@ -16,7 +16,6 @@ function createWindow () {
 }
 
 app.whenReady().then(() => {
-
     createWindow()
 
     app.on('activate', () => {
