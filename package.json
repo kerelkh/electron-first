@@ -6,6 +6,10 @@
   "author": "Kerel Dev",
   "type": "commonjs",
   "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kerelkh/electron-first"
+  },
   "scripts": {
     "start": "electron-forge start",
     "test": "echo \"Error: no test specified\" && exit 1",
