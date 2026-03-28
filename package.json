@@ -26,6 +26,7 @@
     "electron": "^41.1.0"
   },
   "dependencies": {
-    "electron-squirrel-startup": "^1.0.1"
+    "electron-squirrel-startup": "^1.0.1",
+    "update-electron-app": "^3.1.2"
   }
 }
