@@ -16,7 +16,6 @@ function createWindow () {
 }
 
 app.whenReady().then(() => {
-    ipcMain.handle('ping', () => 'pong from main process')
 
     createWindow()
 

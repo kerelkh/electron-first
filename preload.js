@@ -1,7 +1,7 @@
 const { contextBridge, ipcRenderer } = require('electron')
 
 contextBridge.exposeInMainWorld('dev', {
-    name: () => 'Kerel Khalif Afif',
+    name: () => 'Kerel DEvE',
     age: () => 28,
     job: () => 'Software Engineer',
 })
